@@ -1,0 +1,39 @@
+{
+  "name": "uta",
+  "version": "1.0.0",
+  "description": "Ukrainian Text Analyser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "node_modules/.bin/jsdoc -c jsdoc.json  --readme ./readme.md",
+    "postinstall": "node ./build/install-vesum",
+    "build": "node ./build/build && npm run docs",
+    "start": "node ./app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "docdash": "^1.2.0",
+    "execa": "^4.0.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "lodash-node": "^3.10.2",
+    "moment": "^2.24.0",
+    "mongodb": "^3.4.1",
+    "nconf": "^0.10.0",
+    "nodehun": "^3.0.1",
+    "elegant-spinner": "^1.0.1",
+    "log-update": "^2.3.0",
+    "cli-cursor": "^2.1.0",
+    "restore-cursor": "^2.0.0",
+    "fs-extra": "7.0.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "jsdoc": "^3.6.3",
+    "jsdoc-to-markdown": "^5.0.3"
+  }
+}

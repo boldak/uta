@@ -1,0 +1,1805 @@
+[
+ {
+  "mainForm": "міністр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "омбудсмен",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "омбудсман",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "завідувачка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "експерт",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "глава",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "кандидатка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "нардеп",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ 
+ {
+  "mainForm": "нардепка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+
+ {
+  "mainForm": "віце-прем'єр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "екс-прем'єр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прем'єр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прем'єр-міністр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "автор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "агроном",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "академік",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "акомпаніатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "актор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "актриса",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "альтист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "аналітик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "антрепренер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "аранжувальник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "артист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "архітектор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "атлет",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "баба",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "бабушка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "балерина",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "балет",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "балетмейстер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "бард",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "барон",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "баронесса",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "баскетболіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "батько",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "белетрист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "боєць",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "боксер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "брат",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "виконавець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віолончеліст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віртуоз",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-голова",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-губернатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-консул",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-мер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-президент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-президент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "віце-спікер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "вокаліст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "волейбоболіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "вріо",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "вчений",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "гастролер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "гендиректор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "генерал",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "генерал-губернатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "генерал-фельдцейхмейстер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "генпрокурор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "генсек",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "гітарист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "главком",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "главкомпіс",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "голова",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "голова",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "голова",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "головверх",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "головнокомандуючий",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "головноуповноважений",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "граф",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "графиня",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "гример",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "губернатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "декламаторша",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "декоратор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "делегат",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "депутат",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "держкомпраці",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "держсекретар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "детектив",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дєдушка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "джазмен",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дизайнер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "диктатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дипломат",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "директор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "директор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "диригент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дід",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "доктор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "документаліст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "донпродкомісар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "донька",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дочка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "драматург",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "дует",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "екс-президент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "емісар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "естрада",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "естрадник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "єдинорос",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "живописець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "жінка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "журналіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "зам",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замгендиректор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замгенпрокурор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замголова",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замголови",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замісник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замкерівника",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замміністр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замміністра",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "зампред",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "зампред",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "зампредсовмін",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "замсекретар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "засновник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "заступник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "звукорежисер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "знаменитість",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "ілюзіоніст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "імператор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "імператриця",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "імпресаріо",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "імпресаріо",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "імпровізатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "інструменталіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кандидат",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "канцлер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "карикатурист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "керівник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "керівник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "керуючий директор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "керуючий партнер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кінематографіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кіноактор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кіноактриса",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кіноартист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кінодраматург",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кінокритик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кінорежисер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "клоун",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "клоун",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "княгиня",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "князь",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "комендант",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "комік",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "комісар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "композитор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "консул",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "контрабасист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "конферансьє",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "концертмейстер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "кореспондент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "король",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "критик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "куплетист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "лібретист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "лідер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "літератор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "літературознавець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мадеро",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "майстер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мама",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мать",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мвес",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мистецтвознавець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "митрополит",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мільйонер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мільярдер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "мінистр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "місс",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "міссіс",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "містер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "модельєр",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "монтажер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "музикант",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "музикознавець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "муфтій",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "намісник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "нарком",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "наркомзем",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "наркоміндела",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "наступник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "обер-прокурор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "облревком",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "обревком",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "обрядоначальник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "оперета",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "отець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "очеркист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "очільник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "пан",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "пані",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "папа",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "парламентарій",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "пародист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "партнер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "патріарх",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "педагог",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "письменник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "піаніст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "піаністка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "повпред",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "поет",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "політик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "помічник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "попередник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "портретист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "посол",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "постановщик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "постпред",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "правитель",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "председ",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "предсовмін",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "представитель",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "представник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "представник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "представник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "президент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "президент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прес-аташе",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прес-секретар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "приємник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "призначенець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "примадонна",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "принц",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "принцеса",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "продюсер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прозаїк",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "прокурор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "публіцист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "радник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "редактор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "режисер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "режисура",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "рейхсканцлер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "саксофоніст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сатирик",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "святий",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "секретар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сенатор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сестра",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "симфоніст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "син",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "скарбничий",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "скрипач",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "скульптор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "соліст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "солістка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "спецпредставник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "співак",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "співачка",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "співзасновник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "співправитель",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "співпрезидент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "спіичрайтер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "спікер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "спортсмен",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "ставленник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "статс-секретар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "студент",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "студієць",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "суддя",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сценарист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "сценограф",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "танцівник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "танцюрист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "телеведущий",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "тесть",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "теща",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "торгпред",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "трагік",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "трупа",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "уповноважений",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "управляючий директор",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "управляючий партнер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "управсправами",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "учений",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "футболіст",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "хореограф",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "хормейстер",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "художник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "цар",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "цариця",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "чиновник",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "читець",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "член",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "чоловік",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "шансоньє",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "шахматист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "шеф",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "шоумен",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "юморист",
+  "tags": [
+   "s_pos"
+  ]
+ },
+ {
+  "mainForm": "юрист",
+  "tags": [
+   "s_pos"
+  ]
+ }
+]
