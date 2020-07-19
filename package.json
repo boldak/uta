@@ -19,7 +19,7 @@
     "docdash": "^1.2.0",
     "execa": "^4.0.0",
     "express": "^4.17.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash-node": "^3.10.2",
     "moment": "^2.24.0",
     "mongodb": "^3.4.1",
